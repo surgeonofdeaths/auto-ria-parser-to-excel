@@ -1,8 +1,7 @@
 import pandas as pd
-from parse_cars import get_cars_parsed, preferred_marks, url
+from parse_cars import get_cars_parsed, FIELDS, PAGES
 
-cols = ['Назва машини', 'Рік', 'Посилання', 'Ціна', ]
-data = get_cars_parsed(url, car_marks=preferred_marks)
+data = get_cars_parsed(pages=PAGES)
 
-new_df = pd.DataFrame(data=data, columns=cols)
-new_df.to_csv("../info_cars.csv", sep=',')
+new_df = pd.DataFrame(data=data, columns=FIELDS)
+new_df.to_csv("../info_cars2.csv", sep=',')

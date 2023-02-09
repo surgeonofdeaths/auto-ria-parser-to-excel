@@ -1,37 +1,223 @@
-,Назва машини,Рік,Посилання,Ціна
-0,Mazda 3  1.6i MT (105 к.с.),2008,https://auto.ria.com/uk/auto_mazda_3_33543144.html,220 660  грн
-1,Volkswagen Golf Plus,2005,https://auto.ria.com/uk/auto_volkswagen_golf_plus_33895598.html,204 357  грн
-2,Mazda 3  2.0i MT (150 к.с.),2005,https://auto.ria.com/uk/auto_mazda_3_33880200.html,200 309  грн
-3,Ford Focus,2007,https://auto.ria.com/uk/auto_ford_focus_33926501.html,200 309  грн
-4,Volkswagen Passat,2006,https://auto.ria.com/uk/auto_volkswagen_passat_33914072.html,214 374  грн
-5,Volkswagen Golf  1.6 МТ (102 к.с.),2005,https://auto.ria.com/uk/auto_volkswagen_golf_33923987.html,215 576  грн
-6,Volkswagen Golf,2007,https://auto.ria.com/uk/auto_volkswagen_golf_33772872.html,208 520  грн
-7,Nissan Almera  1.6 МТ (102 к.с.),2011,https://auto.ria.com/uk/auto_nissan_almera_33864902.html,200 609  грн
-8,Mazda 2,2008,https://auto.ria.com/uk/auto_mazda_2_33936237.html,186 325  грн
-9,Ford Focus,2006,https://auto.ria.com/uk/auto_ford_focus_33918435.html,186 372  грн
-10,Volkswagen Passat,2005,https://auto.ria.com/uk/auto_volkswagen_passat_33941757.html,204 357  грн
-11,Ford C-Max  1.8 FlexFuel MT (125 к.с.),2005,https://auto.ria.com/uk/auto_ford_c_max_33923379.html,213 007  грн
-12,Ford Fusion  1.6 MT (101 к.с.),2011,https://auto.ria.com/uk/auto_ford_fusion_33941256.html,218 654  грн
-13,Ford Mondeo  2.2TDCi MT (155 к.с.),2006,https://auto.ria.com/uk/auto_ford_mondeo_33940564.html,158 434  грн
-14,Mazda 6,2007,https://auto.ria.com/uk/auto_mazda_6_33938580.html,196 686  грн
-15,Ford Focus  1.6 Duratec Ti-VCT MT (115 к.с.),2005,https://auto.ria.com/uk/auto_ford_focus_33932716.html,176 399  грн
-16,Nissan Note  1.4 i (88 к.с),2008,https://auto.ria.com/uk/auto_nissan_note_33932624.html,172 860  грн
-17,Volkswagen Passat,2005,https://auto.ria.com/uk/auto_volkswagen_passat_33930034.html,212 330  грн
-18,Volkswagen Golf,2005,https://auto.ria.com/uk/auto_volkswagen_golf_33930024.html,180 274  грн
-19,Honda Accord,2006,https://auto.ria.com/uk/auto_honda_accord_33847771.html,221 100  грн
-20,Ford Focus,2007,https://auto.ria.com/uk/auto_ford_focus_33925383.html,208 936  грн
-21,Ford Focus  1.4 Duratec МТ (80 к.с.),2009,https://auto.ria.com/uk/auto_ford_focus_33767791.html,221 100  грн
-22,Ford Focus,2008,https://auto.ria.com/uk/auto_ford_focus_33886083.html,219 144  грн
-23,Ford C-Max  1.8 MT (120 к.с.),2007,https://auto.ria.com/uk/auto_ford_c_max_33885780.html,172 303  грн
-24,Ford Focus,2008,https://auto.ria.com/uk/auto_ford_focus_33744790.html,221 059  грн
-25,Volkswagen Golf,2007,https://auto.ria.com/uk/auto_volkswagen_golf_33876441.html,220 440  грн
-26,Ford C-Max  1.6 MT (100 к.с.),2008,https://auto.ria.com/uk/auto_ford_c_max_33853318.html,220 605  грн
-27,Mercedes-Benz C-Class,2005,https://auto.ria.com/uk/auto_mercedes_benz_c_class_33721389.html,212 742  грн
-28,Ford Transit Connect,2006,https://auto.ria.com/uk/auto_ford_transit_connect_33942259.html,152 263  грн
-29,Ford Focus  	1.6 TDCi МT (109 к.с.),2009,https://auto.ria.com/uk/auto_ford_focus_33942138.html,220 440  грн
-30,Volkswagen Touran,2006,https://auto.ria.com/uk/auto_volkswagen_touran_33941913.html,218 545  грн
-31,Mazda 3,2008,https://auto.ria.com/uk/auto_mazda_3_33936607.html,204 714  грн
-32,Volkswagen Golf,2005,https://auto.ria.com/uk/auto_volkswagen_golf_33935778.html,212 489  грн
-33,Toyota Aygo,2010,https://auto.ria.com/uk/auto_toyota_aygo_33930934.html,184 460  грн
-34,Ford C-Max,2006,https://auto.ria.com/uk/auto_ford_c_max_33929127.html,194 485  грн
-35,Ford Focus,2008,https://auto.ria.com/uk/auto_ford_focus_33922457.html,209 040  грн
+﻿;Назва машини;Рік;Посилання;Ціна UAH;Ціна $;Пробіг (тис. км);Місце;Бензин;Коробка передач;Стан;Дата
+0;Volkswagen Golf;2007;https://auto.ria.com/uk/auto_volkswagen_golf_33772872.html;207895;5200;277;Київ;Дизель, 1.9 л.;Ручна / Механіка;В наявності;08.02.2023
+1;Toyota Corolla;2007;https://auto.ria.com/uk/auto_toyota_corolla_33921877.html;199399;4980;265;Київ;Газ / Бензин;Ручна / Механіка;В наявності;04.02.2023
+2;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_33903388.html;195853;4900;161;Первомайськ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;09.02.2023
+3;Honda Accord;2006;https://auto.ria.com/uk/auto_honda_accord_33847771.html;220385;5500;292;Київ;Дизель, 2.2 л.;Ручна / Механіка;В наявності;05.02.2023
+4;Hyundai Getz  Lux;2006;https://auto.ria.com/uk/auto_hyundai_getz_33927307.html;160080;4000;230;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;05.02.2023
+5;Volkswagen Sharan;2007;https://auto.ria.com/uk/auto_volkswagen_sharan_33924811.html;213853;5349;287;Київ;Дизель, 2 л.;Ручна / Механіка;В наявності;05.02.2023
+6;Volkswagen Passat;2006;https://auto.ria.com/uk/auto_volkswagen_passat_33874600.html;199860;4999;281;Київ;Бензин, 2 л.;Ручна / Механіка;В наявності;26.01.2023
+7;Mercedes-Benz A-Class  150 AT (95 к.с.);2008;https://auto.ria.com/uk/auto_mercedes_benz_a_class_33708842.html;195804;4900;205;Київ;Бензин, 1.5 л.;Ручна / Механіка;В наявності;09.02.2023
+8;Mazda 3;2006;https://auto.ria.com/uk/auto_mazda_3_33941949.html;179910;4500;240;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+9;Nissan Almera  1.6 МT (107 к.с.);2008;https://auto.ria.com/uk/auto_nissan_almera_33875224.html;212424;5300;103;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;03.02.2023
+10;Volkswagen Fox;2010;https://auto.ria.com/uk/auto_volkswagen_fox_33911406.html;159880;3999;208;Київ;Бензин, 1.2 л.;Ручна / Механіка;В наявності;02.02.2023
+11;Volkswagen Polo;2007;https://auto.ria.com/uk/auto_volkswagen_polo_33743857.html;205845;5150;219;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;26.01.2023
+12;Ford Focus C-Max;2007;https://auto.ria.com/uk/auto_ford_focus_c_max_33851173.html;220000;5500;193;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;21.01.2023
+13;Ford Focus  1.8 MT (125 к.с.);2007;https://auto.ria.com/uk/auto_ford_focus_33949423.html;215784;5400;218;Київ;Бензин, 1.8 л.;Ручна / Механіка;В наявності;09.02.2023
+14;"Ford Focus  	1.6 TDCi МT (109 к.с.)";2008;https://auto.ria.com/uk/auto_ford_focus_33934430.html;220715;5500;200;Одеса;Дизель, 1.6 л.;Ручна / Механіка;В наявності;06.02.2023
+15;Volkswagen Golf Plus;2007;https://auto.ria.com/uk/auto_volkswagen_golf_plus_33894795.html;217851;5449;223;Київ;Дизель, 1.9 л.;Ручна / Механіка;В наявності;30.01.2023
+16;Mazda 6;2006;https://auto.ria.com/uk/auto_mazda_6_33825409.html;183816;4600;163;Київ;Бензин, 1.8 л.;Ручна / Механіка;В наявності;15.01.2023
+17;Volkswagen Golf;2007;https://auto.ria.com/uk/auto_volkswagen_golf_33948008.html;203897;5100;199;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;09.02.2023
+18;Volkswagen Caddy  2.0 MT (70 к.с.);2007;https://auto.ria.com/uk/auto_volkswagen_caddy_33945652.html;213892;5350;245;Одеса;Дизель, 2 л.;Ручна / Механіка;В наявності;09.02.2023
+19;Hyundai Accent;2007;https://auto.ria.com/uk/auto_hyundai_accent_33803297.html;190380;4750;225;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;09.02.2023
+20;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_33944386.html;186325;4650;105;Одеса;Бензин, 1.4 л.;Ручна / Механіка;В наявності;08.02.2023
+21;Ford Fusion;2008;https://auto.ria.com/uk/auto_ford_fusion_33941813.html;172086;4300;230;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;08.02.2023
+22;Hyundai i20;2012;https://auto.ria.com/uk/auto_hyundai_i20_33939685.html;220715;5500;179;Київ;Газ / Бензин, 1.25 л.;Ручна / Механіка;В наявності;07.02.2023
+23;Volkswagen Polo  1.4 MPI;2006;https://auto.ria.com/uk/auto_volkswagen_polo_33938395.html;183908;4600;214;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;07.02.2023
+24;Ford Focus;2008;https://auto.ria.com/uk/auto_ford_focus_33931349.html;188329;4700;240;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;06.02.2023
+25;Nissan Note;2006;https://auto.ria.com/uk/auto_nissan_note_33217898.html;192960;4800;280;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;06.02.2023
+26;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_33853021.html;172774;4300;140;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;04.02.2023
+27;Volkswagen Golf  MPI;2006;https://auto.ria.com/uk/auto_volkswagen_golf_33920689.html;181909;4550;280;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;04.02.2023
+28;Suzuki Swift;2011;https://auto.ria.com/uk/auto_suzuki_swift_33916353.html;204357;5100;137;Одеса;Газ / Бензин, 1.3 л.;Ручна / Механіка;В наявності;03.02.2023
+29;Ford Fiesta;2007;https://auto.ria.com/uk/auto_ford_fiesta_33767843.html;192336;4800;163;Київ;Бензин, 1.3 л.;Ручна / Механіка;В наявності;02.02.2023
+30;Mazda 2;2009;https://auto.ria.com/uk/auto_mazda_2_33895622.html;190902;4750;94;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;30.01.2023
+31;Ford Focus;2006;https://auto.ria.com/uk/auto_ford_focus_33876605.html;216432;5400;208;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;26.01.2023
+32;Hyundai i10  1.2;2009;https://auto.ria.com/uk/auto_hyundai_i10_33868272.html;199749;4990;109;Київ;Бензин, 1.2 л.;Ручна / Механіка;В наявності;24.01.2023
+33;Hyundai i10  O.F.F.I.C.I.A.L;2011;https://auto.ria.com/uk/auto_hyundai_i10_33863488.html;188288;4699;157;Київ;Бензин, 1.1 л.;Ручна / Механіка;В наявності;23.01.2023
+34;Ford Fiesta;2010;https://auto.ria.com/uk/auto_ford_fiesta_33861855.html;219764;5490;248;Київ;Газ / Бензин, 1.2 л.;Ручна / Механіка;В наявності;23.01.2023
+35;Hyundai i30;2011;https://auto.ria.com/uk/auto_hyundai_i30_33722918.html;220000;5497;156;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;23.01.2023
+36;Ford Focus;2006;https://auto.ria.com/uk/auto_ford_focus_33810923.html;208104;5200;229;Київ;Дизель, 1.6 л.;Ручна / Механіка;В наявності;22.01.2023
+37;Ford Focus;2007;https://auto.ria.com/uk/auto_ford_focus_33831785.html;219764;5490;204;Одеса;Бензин, 1.6 л.;Ручна / Механіка;В наявності;17.01.2023
+38;Nissan Almera Classic;2007;https://auto.ria.com/uk/auto_nissan_almera_classic_33690503.html;152798;3800;234;Одеса;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;14.01.2023
+39;Ford Fiesta;2006;https://auto.ria.com/uk/auto_ford_fiesta_33807617.html;171728;4290;191;Одеса;Дизель, 1.4 л.;Ручна / Механіка;В наявності;11.01.2023
+40;Volkswagen Golf;2008;https://auto.ria.com/uk/auto_volkswagen_golf_32883201.html;197802;4950;255;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;09.02.2023
+41;Mazda 6;2007;https://auto.ria.com/uk/auto_mazda_6_33803695.html;219740;5499;249;Київ;Бензин, 2.3 л.;Ручна / Механіка;В наявності;09.02.2023
+42;Toyota Auris;2007;https://auto.ria.com/uk/auto_toyota_auris_33948684.html;219780;5500;155;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;09.02.2023
+43;Ford Focus;2007;https://auto.ria.com/uk/auto_ford_focus_33549176.html;188094;4700;180;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;09.02.2023
+44;Nissan Almera Classic;2008;https://auto.ria.com/uk/auto_nissan_almera_classic_33946237.html;216000;5400;184;Київ;Газ / Бензин;Ручна / Механіка;В наявності;09.02.2023
+45;Ford Fusion  1.4 MT (80 к.с.);2011;https://auto.ria.com/uk/auto_ford_fusion_33946002.html;176044;4400;250;Одеса;Бензин, 1.4 л.;Ручна / Механіка;В наявності;09.02.2023
+46;Nissan Almera Classic  1.6 МT (107 к.с.);2008;https://auto.ria.com/uk/auto_nissan_almera_classic_33659905.html;192336;4800;278;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;09.02.2023
+47;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_33945006.html;156273;3900;250;Одеса;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;09.02.2023
+48;Ford Focus;2010;https://auto.ria.com/uk/auto_ford_focus_33547829.html;216378;5400;190;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;08.02.2023
+49;Volkswagen Up;2014;https://auto.ria.com/uk/auto_volkswagen_up_29815813.html;199950;5000;189;Київ;Бензин, 1 л.;Ручна / Механіка;В наявності;08.02.2023
+50;Ford Focus;2008;https://auto.ria.com/uk/auto_ford_focus_31189797.html;208364;5200;125;Одеса;Бензин, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+51;Volkswagen Caddy;2006;https://auto.ria.com/uk/auto_volkswagen_caddy_25855626.html;211947;5300;239;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;08.02.2023
+52;Hyundai Accent;2007;https://auto.ria.com/uk/auto_hyundai_accent_33673522.html;206360;5150;151;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+53;Ford Focus C-Max;2006;https://auto.ria.com/uk/auto_ford_focus_c_max_33385573.html;180360;4500;295;Київ;Газ / Бензин, 2 л.;Ручна / Механіка;В наявності;08.02.2023
+54;Hyundai i30;2011;https://auto.ria.com/uk/auto_hyundai_i30_33941620.html;179780;4499;250;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;08.02.2023
+55;Mazda 3  1.6i MT (105 к.с.);2006;https://auto.ria.com/uk/auto_mazda_3_33941141.html;196343;4900;217;Одеса;Бензин, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+56;Ford Focus;2008;https://auto.ria.com/uk/auto_ford_focus_33941401.html;220550;5500;260;Київ;Дизель, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+57;Hyundai Accent;2007;https://auto.ria.com/uk/auto_hyundai_accent_29902952.html;196637;4900;210;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+58;Hyundai Elantra;2007;https://auto.ria.com/uk/auto_hyundai_elantra_33014534.html;220660;5500;260;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+59;Hyundai Sonata;2007;https://auto.ria.com/uk/auto_hyundai_sonata_33940919.html;206051;5150;243;Київ;Газ / Бензин, 2 л.;Ручна / Механіка;В наявності;08.02.2023
+60;Mazda 3;2006;https://auto.ria.com/uk/auto_mazda_3_33800129.html;208364;5200;150;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+61;Toyota Yaris;2006;https://auto.ria.com/uk/auto_toyota_yaris_33796629.html;156546;3900;198;Одеса;Бензин, 1 л.;Ручна / Механіка;В наявності;08.02.2023
+62;Mazda 3  1.6i MT (105 к.с.);2008;https://auto.ria.com/uk/auto_mazda_3_33543144.html;220330;5500;136;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+63;Volkswagen Jetta;2007;https://auto.ria.com/uk/auto_volkswagen_jetta_29113605.html;159960;4000;198;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+64;Mazda 3;2008;https://auto.ria.com/uk/auto_mazda_3_33666944.html;184644;4600;205;Одеса;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;08.02.2023
+65;Nissan Micra;2012;https://auto.ria.com/uk/auto_nissan_micra_33062508.html;212742;5300;120;Київ;Бензин, 1.2 л.;Ручна / Механіка;В наявності;07.02.2023
+66;Volkswagen Passat  2.0 FSI 4 MOTION;2008;https://auto.ria.com/uk/auto_volkswagen_passat_33938789.html;159840;4000;205;Київ;Бензин, 2 л.;Ручна / Механіка;В наявності;07.02.2023
+67;Hyundai Matrix;2006;https://auto.ria.com/uk/auto_hyundai_matrix_33937947.html;134268;3350;250;Первомайськ;Газ / Бензин;Ручна / Механіка;В наявності;07.02.2023
+68;Hyundai Matrix;2007;https://auto.ria.com/uk/auto_hyundai_matrix_33669179.html;188705;4700;252;Одеса;Бензин, 1.6 л.;Ручна / Механіка;В наявності;07.02.2023
+69;Hyundai Sonata;2008;https://auto.ria.com/uk/auto_hyundai_sonata_33396388.html;210787;5250;190;Київ;Газ / Бензин, 2 л.;Ручна / Механіка;В наявності;07.02.2023
+70;Hyundai Matrix;2007;https://auto.ria.com/uk/auto_hyundai_matrix_32869795.html;180765;4500;162;Київ;Дизель, 1.5 л.;Ручна / Механіка;В наявності;07.02.2023
+71;Suzuki Swift;2007;https://auto.ria.com/uk/auto_suzuki_swift_33936780.html;204357;5100;216;Київ;Бензин, 1.3 л.;Ручна / Механіка;В наявності;07.02.2023
+72;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_25419610.html;209040;5200;160;Одеса;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;07.02.2023
+73;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_33729974.html;201000;5000;131;Київ;Дизель, 1.5 л.;Ручна / Механіка;В наявності;07.02.2023
+74;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_32888177.html;221100;5500;160;Одеса;Дизель, 1.5 л.;Ручна / Механіка;В наявності;07.02.2023
+75;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_33934854.html;172301;4300;198;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;07.02.2023
+76;Ford Fiesta;2008;https://auto.ria.com/uk/auto_ford_fiesta_33216028.html;184879;4599;134;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;06.02.2023
+77;Ford Focus;2011;https://auto.ria.com/uk/auto_ford_focus_33310876.html;201000;5000;181;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;06.02.2023
+78;Hyundai i30;2009;https://auto.ria.com/uk/auto_hyundai_i30_32288979.html;201522;5013;175;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;06.02.2023
+79;Hyundai Matrix;2008;https://auto.ria.com/uk/auto_hyundai_matrix_33791753.html;179820;4500;200;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;06.02.2023
+80;Hyundai Getz;2008;https://auto.ria.com/uk/auto_hyundai_getz_33219856.html;172860;4300;168;Київ;Бензин, 1.1 л.;Ручна / Механіка;В наявності;06.02.2023
+81;Ford Fiesta;2007;https://auto.ria.com/uk/auto_ford_fiesta_33933158.html;136238;3400;223;Київ;Газ / Бензин, 1.3 л.;Ручна / Механіка;В наявності;06.02.2023
+82;Hyundai Getz;2008;https://auto.ria.com/uk/auto_hyundai_getz_33932324.html;201000;5000;162;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;06.02.2023
+83;Suzuki Alto;2012;https://auto.ria.com/uk/auto_suzuki_alto_30099771.html;164861;4100;109;Київ;Бензин, 1 л.;Ручна / Механіка;В наявності;06.02.2023
+84;Ford Fiesta;2006;https://auto.ria.com/uk/auto_ford_fiesta_33666182.html;200959;4999;206;Одеса;Дизель, 1.6 л.;Ручна / Механіка;В наявності;06.02.2023
+85;Nissan Micra;2008;https://auto.ria.com/uk/auto_nissan_micra_33533390.html;197078;4900;155;Одеса;Бензин, 1.2 л.;Ручна / Механіка;В наявності;06.02.2023
+86;Ford Focus  1.8 MT (125 к.с.);2006;https://auto.ria.com/uk/auto_ford_focus_33930948.html;174609;4350;160;Одеса;Бензин, 1.8 л.;Ручна / Механіка;В наявності;06.02.2023
+87;Nissan Almera;2012;https://auto.ria.com/uk/auto_nissan_almera_33930416.html;220770;5500;140;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;06.02.2023
+88;Nissan TIIDA  1.6 MT (110 к.с.);2006;https://auto.ria.com/uk/auto_nissan_tiida_33862175.html;151960;3799;250;Одеса;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;06.02.2023
+89;Nissan Note;2006;https://auto.ria.com/uk/auto_nissan_note_33930159.html;209088;5222;183;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;06.02.2023
+90;Volkswagen Jetta;2006;https://auto.ria.com/uk/auto_volkswagen_jetta_33279255.html;211947;5300;166;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;06.02.2023
+91;Hyundai Getz;2008;https://auto.ria.com/uk/auto_hyundai_getz_33374499.html;201000;5000;140;Одеса;Бензин, 1.6 л.;Ручна / Механіка;В наявності;06.02.2023
+92;Mazda 5;2007;https://auto.ria.com/uk/auto_mazda_5_32796854.html;221100;5500;245;Київ;Дизель, 2 л.;Ручна / Механіка;В наявності;06.02.2023
+93;Volkswagen Golf;2007;https://auto.ria.com/uk/auto_volkswagen_golf_33929568.html;211893;5300;230;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;05.02.2023
+94;Mercedes-Benz Citan;2014;https://auto.ria.com/uk/auto_mercedes_benz_citan_33664407.html;188940;4700;235;Київ;Дизель, 1.5 л.;Ручна / Механіка;В наявності;05.02.2023
+95;Volkswagen Jetta;2006;https://auto.ria.com/uk/auto_volkswagen_jetta_33372660.html;211947;5300;235;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;05.02.2023
+96;Volkswagen Golf  gt;2007;https://auto.ria.com/uk/auto_volkswagen_golf_33204090.html;209947;5250;175;Одеса;Бензин, 1.4 л.;Ручна / Механіка;В наявності;05.02.2023
+97;Nissan Almera;2012;https://auto.ria.com/uk/auto_nissan_almera_33372227.html;193008;4800;218;Одеса;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;05.02.2023
+98;Hyundai Getz;2007;https://auto.ria.com/uk/auto_hyundai_getz_33927886.html;144720;3600;186;Київ;Дизель, 1.5 л.;Ручна / Механіка;В наявності;05.02.2023
+99;Volkswagen Passat  D I E S E L;2007;https://auto.ria.com/uk/auto_volkswagen_passat_33927335.html;219490;5490;273;Київ;Дизель, 2 л.;Ручна / Механіка;В наявності;05.02.2023
+100;Hyundai Getz;2010;https://auto.ria.com/uk/auto_hyundai_getz_32660007.html;164082;4100;212;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;05.02.2023
+101;Ford Fiesta;2008;https://auto.ria.com/uk/auto_ford_fiesta_33370189.html;180945;4500;168;Одеса;Бензин, 1.4 л.;Ручна / Механіка;В наявності;05.02.2023
+102;Nissan Note;2007;https://auto.ria.com/uk/auto_nissan_note_33286523.html;205071;5100;208;Одеса;Бензин, 1.6 л.;Ручна / Механіка;В наявності;05.02.2023
+103;Hyundai Matrix;2009;https://auto.ria.com/uk/auto_hyundai_matrix_33522690.html;221155;5500;241;Київ;Дизель, 1.5 л.;Ручна / Механіка;В наявності;05.02.2023
+104;Ford Transit Connect;2008;https://auto.ria.com/uk/auto_ford_transit_connect_33924932.html;205020;5100;243;Київ;Дизель, 1.8 л.;Ручна / Механіка;В наявності;05.02.2023
+105;Hyundai Elantra;2010;https://auto.ria.com/uk/auto_hyundai_elantra_33211375.html;217080;5400;170;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;05.02.2023
+106;Hyundai Elantra;2011;https://auto.ria.com/uk/auto_hyundai_elantra_33527260.html;221100;5500;226;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;05.02.2023
+107;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_33044787.html;180900;4500;241;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;04.02.2023
+108;Volkswagen Polo;2008;https://auto.ria.com/uk/auto_volkswagen_polo_33783756.html;179910;4500;195;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;04.02.2023
+109;Ford Tourneo Connect;2007;https://auto.ria.com/uk/auto_ford_tourneo_connect_33045635.html;201000;5000;245;Київ;Дизель, 1.8 л.;Ручна / Механіка;В наявності;04.02.2023
+110;Volkswagen Caddy  2.0 SDI;2006;https://auto.ria.com/uk/auto_volkswagen_caddy_33923502.html;211893;5300;179;Київ;Дизель, 2 л.;Ручна / Механіка;В наявності;04.02.2023
+111;Ford Fusion  1.6 MT (101 к.с.);2008;https://auto.ria.com/uk/auto_ford_fusion_33923455.html;207792;5200;172;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;04.02.2023
+112;Volkswagen Passat;2006;https://auto.ria.com/uk/auto_volkswagen_passat_33475237.html;211947;5300;250;Одеса;Дизель, 1.9 л.;Ручна / Механіка;В наявності;04.02.2023
+113;Ford Fiesta;2006;https://auto.ria.com/uk/auto_ford_fiesta_33524836.html;160800;4000;233;Київ;Бензин, 1.25 л.;Ручна / Механіка;В наявності;04.02.2023
+114;Ford Focus;2009;https://auto.ria.com/uk/auto_ford_focus_33923195.html;221155;5500;249;Київ;Бензин, 2 л.;Ручна / Механіка;В наявності;04.02.2023
+115;Suzuki Swift;2008;https://auto.ria.com/uk/auto_suzuki_swift_33923057.html;160840;4000;186;Одеса;Газ / Бензин, 1.3 л.;Ручна / Механіка;В наявності;04.02.2023
+116;Hyundai Getz;2008;https://auto.ria.com/uk/auto_hyundai_getz_30182552.html;140700;3500;108;Київ;Бензин, 1 л.;Ручна / Механіка;В наявності;04.02.2023
+117;Ford Fiesta;2008;https://auto.ria.com/uk/auto_ford_fiesta_30476681.html;164820;4100;198;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;04.02.2023
+118;Hyundai Accent;2007;https://auto.ria.com/uk/auto_hyundai_accent_33922723.html;148218;3699;278;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;04.02.2023
+119;Ford Fusion;2011;https://auto.ria.com/uk/auto_ford_fusion_33922107.html;160800;4000;235;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;04.02.2023
+120;Ford Focus;2007;https://auto.ria.com/uk/auto_ford_focus_33206595.html;217080;5400;196;Київ;Бензин, 1.8 л.;Ручна / Механіка;В наявності;04.02.2023
+121;Ford Fiesta;2006;https://auto.ria.com/uk/auto_ford_fiesta_33921797.html;160800;4000;137;Київ;Газ / Бензин, 1.25 л.;Ручна / Механіка;В наявності;04.02.2023
+122;Toyota Aygo;2006;https://auto.ria.com/uk/auto_toyota_aygo_33785161.html;170807;4250;190;Київ;Бензин, 1 л.;Ручна / Механіка;В наявності;04.02.2023
+123;Ford C-Max;2006;https://auto.ria.com/uk/auto_ford_c_max_33912923.html;159800;3999;290;Київ;Газ / Бензин, 1.8 л.;Ручна / Механіка;В наявності;04.02.2023
+124;Nissan Almera Classic  1.6 МT (107 к.с.);2011;https://auto.ria.com/uk/auto_nissan_almera_classic_33522029.html;192864;4800;147;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;04.02.2023
+125;Ford Focus;2006;https://auto.ria.com/uk/auto_ford_focus_33779355.html;180090;4500;238;Київ;Дизель, 2 л.;Ручна / Механіка;В наявності;03.02.2023
+126;Ford Focus  2.0 TDCi MT (136 к.с.);2007;https://auto.ria.com/uk/auto_ford_focus_30762192.html;213060;5300;290;Київ;Дизель, 2 л.;Ручна / Механіка;В наявності;03.02.2023
+127;Suzuki Alto  se;2009;https://auto.ria.com/uk/auto_suzuki_alto_33917785.html;140245;3500;125;Київ;Бензин, 1 л.;Ручна / Механіка;В наявності;03.02.2023
+128;Ford Fiesta;2006;https://auto.ria.com/uk/auto_ford_fiesta_33777703.html;168798;4200;170;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;03.02.2023
+129;Mazda 3;2006;https://auto.ria.com/uk/auto_mazda_3_33917032.html;201050;5000;260;Одеса;Бензин, 1.6 л.;Ручна / Механіка;В наявності;03.02.2023
+130;Volkswagen Polo;2008;https://auto.ria.com/uk/auto_volkswagen_polo_33359913.html;219945;5500;213;Одеса;Дизель, 1.4 л.;Ручна / Механіка;В наявності;03.02.2023
+131;Ford Fiesta;2008;https://auto.ria.com/uk/auto_ford_fiesta_33201658.html;148740;3700;197;Київ;Бензин, 1.2 л.;Ручна / Механіка;В наявності;03.02.2023
+132;Nissan TIIDA  1.6 MT (110 к.с.);2008;https://auto.ria.com/uk/auto_nissan_tiida_33776420.html;192528;4800;126;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;03.02.2023
+133;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_33776210.html;212212;5300;112;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;03.02.2023
+134;Nissan Note;2007;https://auto.ria.com/uk/auto_nissan_note_33747844.html;184419;4599;192;Одеса;Бензин, 1.6 л.;Ручна / Механіка;В наявності;03.02.2023
+135;Volkswagen Jetta;2007;https://auto.ria.com/uk/auto_volkswagen_jetta_33915236.html;147926;3700;170;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;03.02.2023
+136;Nissan Almera Classic  1.6 МT (107 к.с.);2012;https://auto.ria.com/uk/auto_nissan_almera_classic_33655127.html;213060;5300;181;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;03.02.2023
+137;Hyundai Accent  1.5 crdi;2008;https://auto.ria.com/uk/auto_hyundai_accent_31403824.html;200750;5000;181;Київ;Дизель, 1.5 л.;Ручна / Механіка;В наявності;03.02.2023
+138;Nissan Almera;2006;https://auto.ria.com/uk/auto_nissan_almera_33650386.html;172645;4300;271;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;03.02.2023
+139;Mazda 6;2006;https://auto.ria.com/uk/auto_mazda_6_25324462.html;204765;5100;183;Київ;Бензин, 1.8 л.;Ручна / Механіка;В наявності;02.02.2023
+140;Ford Fiesta;2007;https://auto.ria.com/uk/auto_ford_fiesta_32462885.html;220825;5500;117;Київ;Бензин, 2 л.;Ручна / Механіка;В наявності;02.02.2023
+141;Ford Focus;2006;https://auto.ria.com/uk/auto_ford_focus_33035264.html;188987;4700;175;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;02.02.2023
+142;Nissan Note  1.6 i (110 к.с);2007;https://auto.ria.com/uk/auto_nissan_note_33913079.html;175824;4400;177;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;02.02.2023
+143;Volkswagen Polo;2009;https://auto.ria.com/uk/auto_volkswagen_polo_33717891.html;179510;4490;162;Київ;Бензин, 1.2 л.;Ручна / Механіка;В наявності;02.02.2023
+144;Hyundai Elantra  XD;2006;https://auto.ria.com/uk/auto_hyundai_elantra_33520360.html;164451;4100;174;Первомайськ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;02.02.2023
+145;Ford Fusion;2009;https://auto.ria.com/uk/auto_ford_fusion_31962743.html;180900;4500;212;Одеса;Бензин, 1.4 л.;Ручна / Механіка;В наявності;02.02.2023
+146;Mazda 3;2007;https://auto.ria.com/uk/auto_mazda_3_32605829.html;190570;4750;245;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;02.02.2023
+147;Ford Fiesta;2007;https://auto.ria.com/uk/auto_ford_fiesta_33354299.html;144720;3600;160;Київ;Бензин, 1.3 л.;Ручна / Механіка;В наявності;02.02.2023
+148;Ford Fusion  1.2 MT (75 к.с.);2007;https://auto.ria.com/uk/auto_ford_fusion_32154659.html;188846;4700;235;Київ;Газ / Бензин, 1.25 л.;Ручна / Механіка;В наявності;02.02.2023
+149;Ford Focus;2007;https://auto.ria.com/uk/auto_ford_focus_33354020.html;181125;4500;178;Одеса;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;02.02.2023
+150;Ford Focus;2009;https://auto.ria.com/uk/auto_ford_focus_33105553.html;201050;5000;208;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;02.02.2023
+151;Hyundai Getz;2008;https://auto.ria.com/uk/auto_hyundai_getz_33909962.html;168084;4200;156;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;02.02.2023
+152;Hyundai Matrix;2008;https://auto.ria.com/uk/auto_hyundai_matrix_33896104.html;185000;4622;195;Київ;Дизель, 1.5 л.;Ручна / Механіка;В наявності;02.02.2023
+153;Hyundai Elantra;2008;https://auto.ria.com/uk/auto_hyundai_elantra_27537572.html;192720;4800;182;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;02.02.2023
+154;Ford Fusion;2007;https://auto.ria.com/uk/auto_ford_fusion_33353426.html;197323;4900;260;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;02.02.2023
+155;Hyundai i20;2011;https://auto.ria.com/uk/auto_hyundai_i20_33193000.html;195309;4850;182;Київ;Газ / Бензин, 1.2 л.;Ручна / Механіка;В наявності;01.02.2023
+156;Suzuki Swift  B;2008;https://auto.ria.com/uk/auto_suzuki_swift_33191705.html;169134;4200;170;Київ;Газ / Бензин, 1.3 л.;Ручна / Механіка;В наявності;01.02.2023
+157;Ford Focus;2006;https://auto.ria.com/uk/auto_ford_focus_30610064.html;184828;4600;230;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;01.02.2023
+158;Nissan Kubistar;2007;https://auto.ria.com/uk/auto_nissan_kubistar_33648880.html;181260;4500;291;Київ;Дизель, 1.5 л.;Ручна / Механіка;В наявності;01.02.2023
+159;Mercedes-Benz Vito  109 CDI MT (88 к.с.);2007;https://auto.ria.com/uk/auto_mercedes_benz_vito_33907531.html;196490;4900;270;Київ;Дизель, 2.2 л.;Ручна / Механіка;В наявності;01.02.2023
+160;Ford Fiesta  1.4 Duratorq TDCi MT (68 к.с);2006;https://auto.ria.com/uk/auto_ford_fiesta_33906398.html;176572;4400;177;Одеса;Дизель, 1.4 л.;Ручна / Механіка;В наявності;01.02.2023
+161;Ford Fiesta;2012;https://auto.ria.com/uk/auto_ford_fiesta_33432987.html;204367;5099;188;Київ;Бензин, 1.25 л.;Ручна / Механіка;В наявності;01.02.2023
+162;Volkswagen Bora;2008;https://auto.ria.com/uk/auto_volkswagen_bora_33349273.html;219945;5500;199;Одеса;Бензин, 1.6 л.;Ручна / Механіка;В наявності;01.02.2023
+163;Volkswagen Golf;2006;https://auto.ria.com/uk/auto_volkswagen_golf_33895147.html;191903;4800;246;Одеса;Дизель, 1.9 л.;Ручна / Механіка;В наявності;01.02.2023
+164;Hyundai Getz;2008;https://auto.ria.com/uk/auto_hyundai_getz_33905480.html;201350;5000;120;Первомайськ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;01.02.2023
+165;Mazda 6;2006;https://auto.ria.com/uk/auto_mazda_6_33905278.html;200000;5000;280;Київ;Дизель, 2 л.;Ручна / Механіка;В наявності;01.02.2023
+166;Volkswagen Polo;2011;https://auto.ria.com/uk/auto_volkswagen_polo_32848418.html;211947;5300;209;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;01.02.2023
+167;Toyota Yaris;2009;https://auto.ria.com/uk/auto_toyota_yaris_33846079.html;196343;4900;148;Київ;Бензин, 1.3 л.;Ручна / Механіка;В наявності;01.02.2023
+168;BMW 1 Series;2006;https://auto.ria.com/uk/auto_bmw_1_series_33188785.html;197960;4900;216;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;01.02.2023
+169;Ford Mondeo;2006;https://auto.ria.com/uk/auto_ford_mondeo_33151840.html;214963;5350;229;Київ;Дизель, 2 л.;Ручна / Механіка;В наявності;01.02.2023
+170;Nissan Almera Classic;2007;https://auto.ria.com/uk/auto_nissan_almera_classic_33904199.html;188611;4700;242;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;31.01.2023
+171;Volkswagen Polo;2008;https://auto.ria.com/uk/auto_volkswagen_polo_33501737.html;187953;4700;216;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;31.01.2023
+172;Volkswagen Polo;2012;https://auto.ria.com/uk/auto_volkswagen_polo_33903086.html;219889;5500;220;Київ;Дизель, 1.2 л.;Ручна / Механіка;В наявності;31.01.2023
+173;Ford Fiesta;2008;https://auto.ria.com/uk/auto_ford_fiesta_31129216.html;181800;4500;205;Київ;Дизель, 1.4 л.;Ручна / Механіка;В наявності;31.01.2023
+174;Volkswagen Polo;2012;https://auto.ria.com/uk/auto_volkswagen_polo_33902240.html;191903;4800;273;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;31.01.2023
+175;Hyundai Accent;2007;https://auto.ria.com/uk/auto_hyundai_accent_33760812.html;156429;3900;260;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;31.01.2023
+176;Ford Fusion  1.4 MT (80 к.с.);2007;https://auto.ria.com/uk/auto_ford_fusion_33900874.html;208676;5200;203;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;31.01.2023
+177;Volkswagen Touran;2008;https://auto.ria.com/uk/auto_volkswagen_touran_33900488.html;211893;5300;270;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;31.01.2023
+178;Hyundai Elantra;2007;https://auto.ria.com/uk/auto_hyundai_elantra_33069020.html;200559;4999;240;Одеса;Бензин, 1.6 л.;Ручна / Механіка;В наявності;31.01.2023
+179;Ford Tourneo Connect;2006;https://auto.ria.com/uk/auto_ford_tourneo_connect_33175730.html;193920;4800;279;Київ;Газ / Бензин, 1.8 л.;Ручна / Механіка;В наявності;31.01.2023
+180;Hyundai Matrix;2006;https://auto.ria.com/uk/auto_hyundai_matrix_32846922.html;177760;4400;184;Одеса;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;31.01.2023
+181;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_32452896.html;141400;3500;139;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;31.01.2023
+182;Ford Fusion;2010;https://auto.ria.com/uk/auto_ford_fusion_33340797.html;206040;5100;164;Київ;Бензин, 1.25 л.;Ручна / Механіка;В наявності;30.01.2023
+183;Nissan Almera;2012;https://auto.ria.com/uk/auto_nissan_almera_33180634.html;169680;4200;263;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;30.01.2023
+184;Hyundai Getz;2007;https://auto.ria.com/uk/auto_hyundai_getz_33897393.html;139380;3450;253;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;30.01.2023
+185;Ford Focus  1.6 Duratec MT (100 к.с.);2006;https://auto.ria.com/uk/auto_ford_focus_32419970.html;185885;4600;291;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;30.01.2023
+186;Ford Mondeo  2.0TDCi MT (130 к.с.);2006;https://auto.ria.com/uk/auto_ford_mondeo_33896837.html;196343;4900;180;Київ;Дизель, 2 л.;Ручна / Механіка;В наявності;30.01.2023
+187;Ford Focus;2007;https://auto.ria.com/uk/auto_ford_focus_33895418.html;180630;4500;210;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;30.01.2023
+188;Volkswagen Golf;2006;https://auto.ria.com/uk/auto_volkswagen_golf_32880372.html;219945;5500;130;Київ;Дизель, 1.9 л.;Ручна / Механіка;В наявності;30.01.2023
+189;Ford Focus;2010;https://auto.ria.com/uk/auto_ford_focus_33884188.html;184828;4600;190;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;30.01.2023
+190;Ford Focus;2007;https://auto.ria.com/uk/auto_ford_focus_33893777.html;186418;4650;194;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;29.01.2023
+191;Ford Transit Connect;2006;https://auto.ria.com/uk/auto_ford_transit_connect_33893606.html;173720;4300;240;Київ;Газ / Бензин, 1.8 л.;Ручна / Механіка;В наявності;29.01.2023
+192;Ford Fiesta;2006;https://auto.ria.com/uk/auto_ford_fiesta_33491462.html;121140;3000;200;Київ;Газ / Бензин;Ручна / Механіка;В наявності;29.01.2023
+193;Toyota Corolla  D4D;2007;https://auto.ria.com/uk/auto_toyota_corolla_32776779.html;218538;5400;220;Одеса;Дизель, 1.4 л.;Ручна / Механіка;В наявності;29.01.2023
+194;Ford Fiesta  1.4 Duratec MT (80 к.с);2008;https://auto.ria.com/uk/auto_ford_fiesta_33304598.html;159999;3999;198;Київ;Газ / Бензин, 1.4 л.;Ручна / Механіка;В наявності;29.01.2023
+195;Suzuki Swift;2008;https://auto.ria.com/uk/auto_suzuki_swift_33762966.html;190209;4700;153;Київ;Бензин, 1.3 л.;Ручна / Механіка;В наявності;29.01.2023
+196;Nissan Micra;2007;https://auto.ria.com/uk/auto_nissan_micra_33630842.html;172430;4300;137;Одеса;Бензин, 1.4 л.;Ручна / Механіка;В наявності;29.01.2023
+197;Ford Transit Connect;2011;https://auto.ria.com/uk/auto_ford_transit_connect_33889848.html;213113;5300;180;Київ;Дизель, 1.8 л.;Ручна / Механіка;В наявності;29.01.2023
+198;Ford Focus;2007;https://auto.ria.com/uk/auto_ford_focus_33889844.html;164492;4100;278;Первомайськ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;29.01.2023
+199;Hyundai Getz  1.5 TDI;2008;https://auto.ria.com/uk/auto_hyundai_getz_33889302.html;158316;3950;224;Київ;Дизель, 1.5 л.;Ручна / Механіка;В наявності;29.01.2023
+200;Hyundai Getz;2006;https://auto.ria.com/uk/auto_hyundai_getz_33889300.html;120060;3000;211;Київ;Газ / Бензин, 1.1 л.;Ручна / Механіка;В наявності;29.01.2023
+201;Ford Focus;2008;https://auto.ria.com/uk/auto_ford_focus_33888523.html;208676;5200;260;Київ;Дизель, 1.6 л.;Ручна / Механіка;В наявності;28.01.2023
+202;Suzuki Alto  K10B;2012;https://auto.ria.com/uk/auto_suzuki_alto_33491222.html;184184;4550;95;Київ;Бензин, 1 л.;Ручна / Механіка;В наявності;28.01.2023
+203;Nissan Primera;2006;https://auto.ria.com/uk/auto_nissan_primera_33888233.html;200159;4999;188;Київ;Бензин, 1.8 л.;Ручна / Механіка;В наявності;28.01.2023
+204;Ford KA;2011;https://auto.ria.com/uk/auto_ford_ka_32261179.html;161920;4000;108;Київ;Газ / Бензин;Ручна / Механіка;В наявності;28.01.2023
+205;Hyundai i10;2008;https://auto.ria.com/uk/auto_hyundai_i10_33885767.html;132396;3300;160;Київ;Бензин, 1.2 л.;Ручна / Механіка;В наявності;28.01.2023
+206;Ford Fiesta  1.4 Duratec MT (80 к.с);2008;https://auto.ria.com/uk/auto_ford_fiesta_33885512.html;178112;4400;149;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;28.01.2023
+207;Mazda 6  2.0i MT (141 к.с.);2006;https://auto.ria.com/uk/auto_mazda_6_33577938.html;222639;5500;205;Київ;Бензин, 2 л.;Ручна / Механіка;В наявності;28.01.2023
+208;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_33155780.html;198351;4900;137;Київ;Бензин, 1.4 л.;Ручна / Механіка;В наявності;28.01.2023
+209;Ford Focus;2007;https://auto.ria.com/uk/auto_ford_focus_32822449.html;174021;4300;240;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;27.01.2023
+210;Nissan Micra;2008;https://auto.ria.com/uk/auto_nissan_micra_33750049.html;214491;5300;107;Одеса;Бензин, 1.2 л.;Ручна / Механіка;В наявності;27.01.2023
+211;Ford Focus;2007;https://auto.ria.com/uk/auto_ford_focus_33622264.html;188185;4650;266;Київ;Дизель, 1.8 л.;Ручна / Механіка;В наявності;27.01.2023
+212;Nissan Almera Classic;2012;https://auto.ria.com/uk/auto_nissan_almera_classic_33324704.html;198351;4900;183;Київ;Газ / Бензин, 1.6 л.;Ручна / Механіка;В наявності;27.01.2023
+213;Ford Fiesta;2006;https://auto.ria.com/uk/auto_ford_fiesta_33143994.html;180810;4500;185;Одеса;Бензин, 1.2 л.;Ручна / Механіка;В наявності;27.01.2023
+214;Ford Focus  1.6 Duratec MT (100 к.с.);2006;https://auto.ria.com/uk/auto_ford_focus_33881213.html;172604;4299;245;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;27.01.2023
+215;Hyundai i20;2011;https://auto.ria.com/uk/auto_hyundai_i20_33881141.html;216621;5350;180;Первомайськ;Бензин, 1.2 л.;Ручна / Механіка;В наявності;27.01.2023
+216;Volkswagen Jetta;2007;https://auto.ria.com/uk/auto_volkswagen_jetta_33747255.html;215891;5400;230;Київ;Бензин, 1.6 л.;Ручна / Механіка;В наявності;27.01.2023
+217;Ford Mondeo;2009;https://auto.ria.com/uk/auto_ford_mondeo_31924740.html;212648;5299;200;Київ;Дизель, 1.8 л.;Ручна / Механіка;В наявності;27.01.2023
+218;Hyundai i30;2008;https://auto.ria.com/uk/auto_hyundai_i30_33154684.html;222695;5500;194;Одеса;Бензин, 1.4 л.;Ручна / Механіка;В наявності;27.01.2023
+219;Hyundai Accent;2008;https://auto.ria.com/uk/auto_hyundai_accent_32793212.html;202450;5000;288;Київ;Дизель, 1.5 л.;Ручна / Механіка;В наявності;27.01.2023
+220;Volkswagen Polo;2010;https://auto.ria.com/uk/auto_volkswagen_polo_33045796.html;199950;5000;150;Київ;Бензин, 1.2 л.;Ручна / Механіка;В наявності;26.01.2023
+221;Suzuki Swift;2009;https://auto.ria.com/uk/auto_suzuki_swift_31809910.html;206499;5100;240;Київ;Дизель, 1.3 л.;Ручна / Механіка;В наявності;26.01.2023
