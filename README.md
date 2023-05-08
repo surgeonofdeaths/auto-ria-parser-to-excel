@@ -31,7 +31,7 @@ To run this project, install it locally using pip or any other package managers 
 ```bash
 $ git clone https://github.com/surgeonofdeaths/auto-ria-parser-to-excel.git
 $ cd auto-ria-parser-to-excel
-$ python3 -m venv .env
+$ python3 -m venv venv
 $ source .env/bin/activate
 $ pip install -r requirements.txt
 ```
