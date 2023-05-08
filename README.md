@@ -21,7 +21,7 @@ to help my friend pick up a new a car with definite settings. <br>
 > In the end I gained valueable experience with setting deadlines properly :)
 
 ## Technologies
-During this project I used `pandas` for exporting scraped data to csv format, `requests` to get responses from the website, `bs4` for convenient scrapping, `pydantic` for validation and convenient interaction with environmet variables. I used `flake8` and `isort` for refactoring as well.
+During this project I used `pandas` for exporting scraped data to csv format, `requests` to get responses from the website, `bs4` for convenient scrapping, `pydantic` for validation and convenient interaction with environment variables. I used `flake8` and `isort` for refactoring as well.
 
 ## Setup
 To run this project, install it locally using pip or any other package managers such as pipenv, poetry etc.:
