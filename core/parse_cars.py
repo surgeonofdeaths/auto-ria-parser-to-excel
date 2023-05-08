@@ -1,6 +1,6 @@
+import requests
 from bs4 import BeautifulSoup
 from settings import *
-import requests
 
 
 def _is_title_in_car(title):

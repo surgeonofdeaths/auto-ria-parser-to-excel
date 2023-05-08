@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "auto-ria-parser-to-excel"
+version = "0.1.0"
+description = ""
+authors = ["Artem Holodyr <artemmholodyr@gmail.com>"]
+readme = "README.md"
+packages = [{include = "auto_ria_parser_to_excel"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.1"
+bs4 = "^0.0.1"
+environs = "^9.5.0"
+requests = "^2.30.0"
+
+[tool.poetry.group.dev]
+optional = true
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^6.0.0"
+isort = "^5.12.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

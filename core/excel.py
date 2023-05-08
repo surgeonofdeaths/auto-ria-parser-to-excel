@@ -1,5 +1,6 @@
 import pandas as pd
-from parse_cars import get_cars_parsed, FIELDS, PAGES
+
+from core.parse_cars import FIELDS, PAGES, get_cars_parsed
 
 data = get_cars_parsed(pages=PAGES)
 
