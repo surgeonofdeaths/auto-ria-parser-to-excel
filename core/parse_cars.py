@@ -1,29 +1,29 @@
 import requests
 from bs4 import BeautifulSoup
 
-from core.settings import *
+from core.settings import config
 
 
 def _is_title_in_car(title):
-    for mark in PREFERRED_MARKS:
+    for mark in config.PREFERRED_MARKS:
         if mark.lower() in title.lower():
             return True
     return False
 
 
 def _print_to_console(*args):
-    for i in range(len(FIELDS)):
-        print(f'{FIELDS[i]}: "{args[i]}"')
+    for i in range(len(config.FIELDS)):
+        print(f'{config.FIELDS[i]}: "{args[i]}"')
     print()
 
 
 def _check_fields(title, year, price, race, location, sold):
     if _is_title_in_car(title) and \
-            sold is SOLD and \
-            MIN_YEAR < int(year) and \
-            MIN_PRICE <= price <= MAX_PRICE and \
-            (isinstance(race, str) or int(race) < MAX_RACE) and \
-            (LOCATION == '__all__' or location.lower() in list(LOCATION)):
+            sold is config.SOLD and \
+            config.MIN_YEAR < int(year) and \
+            config.MIN_PRICE <= price <= config.MAX_PRICE and \
+            (isinstance(race, str) or int(race) < config.MAX_RACE) and \
+            (config.LOCATION == '__all__' or location.lower() in list(config.LOCATION)):
         return True
     return False
 
@@ -54,7 +54,7 @@ def _get_fields(car, *, console=False):
         sold = True
         date = date['data-sold-date'].split()[0]
 
-    if not ANY and not _check_fields(title, year, dollar_price, race, location, sold):
+    if not config.ANY and not _check_fields(title, year, dollar_price, race, location, sold):
         return
 
     sold = 'Продано' if sold else 'В наявності'
@@ -66,13 +66,13 @@ def _get_fields(car, *, console=False):
         return data_fields
 
 
-def get_cars_parsed(pages=PAGES, *, console=False):
+def get_cars_parsed(pages=config.PAGES, *, console=False):
     result_cars = []
 
     for page in range(pages):
         if not console:
             print(f'Сторінка №{page + 1} у процесі..')
-        next_url = URL % page
+        next_url = config.URL % page
         response = requests.get(next_url)
         soup = BeautifulSoup(response.text, 'html.parser')
 
