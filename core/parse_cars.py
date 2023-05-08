@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from core.settings import config
+from .settings import config
 
 
 def _is_title_in_car(title):
@@ -86,9 +86,5 @@ def get_cars_parsed(pages=config.PAGES, *, console=False):
     return result_cars if not console else None
 
 
-def main():
-    get_cars_parsed(console=True)
-
-
 if __name__ == '__main__':
-    main()
+    get_cars_parsed(console=config.CONSOLE)

@@ -7,6 +7,7 @@ class Settings(BaseSettings):
     FIELDS: list[str]
     CSV_NAME: str
     ANY: bool
+    CONSOLE: bool
     MIN_PRICE: int
     MAX_PRICE: int
     MAX_RACE: int

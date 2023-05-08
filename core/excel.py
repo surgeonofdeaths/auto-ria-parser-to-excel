@@ -1,11 +1,14 @@
 import pandas as pd
 
-from core.parse_cars import FIELDS, PAGES, get_cars_parsed
-from core.settings import CSV_NAME
+from .settings import config
 
-data = get_cars_parsed(pages=PAGES)
 
-new_df = pd.DataFrame(data=data, columns=FIELDS)
+def generate_csv(data: list | None) -> None:
+    if data is None:
+        print('Done!\nAll cars are parsed')
+        return
 
-csv_name = 'info_cars.csv'
-new_df.to_csv(f"../{csv_name}", sep=',')
+    new_df = pd.DataFrame(data=data, columns=config.FIELDS)
+    csv_name = f'{config.CSV_NAME}.csv'
+    new_df.to_csv(f"../{csv_name}", sep=',')
+    print('Your csv file is ready!')
